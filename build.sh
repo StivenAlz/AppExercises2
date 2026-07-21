@@ -24,7 +24,7 @@ for project in Bienvenute PokerFace; do
 done
 
 echo -e "\n${YELLOW}🐳 Construyendo imágenes Docker...${NC}"
-docker-compose build
+docker compose build
 if [ $? -ne 0 ]; then
     echo -e "${RED}❌ Error al construir las imágenes${NC}"
     exit 1
