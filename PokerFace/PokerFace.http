@@ -1,0 +1,6 @@
+@PokerFace_HostAddress = http://localhost:5215
+
+GET {{PokerFace_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

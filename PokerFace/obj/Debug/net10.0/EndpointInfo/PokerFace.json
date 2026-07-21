@@ -1,0 +1,57 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Pokerface API",
+    "version": "v1"
+  },
+  "paths": {
+    "/Adivinanzas": {
+      "get": {
+        "tags": [
+          "Adivinanzas"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Chistes": {
+      "get": {
+        "tags": [
+          "Chistes"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/": {
+      "get": {
+        "tags": [
+          "PokerFace"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { },
+  "tags": [
+    {
+      "name": "Adivinanzas"
+    },
+    {
+      "name": "Chistes"
+    },
+    {
+      "name": "PokerFace"
+    }
+  ]
+}

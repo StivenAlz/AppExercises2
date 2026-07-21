@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\pokerface\\controllers\\adivinanzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\controllers\\adivinanzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\bienvenute\\controllers\\bienvenidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|solutionrelative:bienvenute\\controllers\\bienvenidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\bienvenute\\bienvenute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|solutionrelative:bienvenute\\bienvenute.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\pokerface\\pokerface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\pokerface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\pokerface\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\bienvenute\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|solutionrelative:bienvenute\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\pokerface\\controllers\\chistescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\controllers\\chistescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\pokerface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\pokerface\\models\\chiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\models\\chiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\pokerface\\models\\adivinanza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41EF2AA-1CE8-4BC6-9DA5-4529A7A816AC}|PokerFace\\PokerFace.csproj|solutionrelative:pokerface\\models\\adivinanza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\bienvenute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|solutionrelative:bienvenute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\bienvenute\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|solutionrelative:bienvenute\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|c:\\users\\stiven alomaliza\\documents\\analista cloud\\appexercises\\bienvenute\\models\\saludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33B1128-5D2F-4BCB-BE4A-16F2E53F8A88}|Bienvenute\\Bienvenute.csproj|solutionrelative:bienvenute\\models\\saludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\appsettings.json",
+              "RelativeDocumentMoniker": "Bienvenute\\appsettings.json",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\appsettings.json",
+              "RelativeToolTip": "Bienvenute\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-21T21:27:50.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BienvenidaController.cs",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\Controllers\\BienvenidaController.cs",
+              "RelativeDocumentMoniker": "Bienvenute\\Controllers\\BienvenidaController.cs",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\Controllers\\BienvenidaController.cs",
+              "RelativeToolTip": "Bienvenute\\Controllers\\BienvenidaController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:27:31.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdivinanzasController.cs",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\Controllers\\AdivinanzasController.cs",
+              "RelativeDocumentMoniker": "PokerFace\\Controllers\\AdivinanzasController.cs",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\Controllers\\AdivinanzasController.cs",
+              "RelativeToolTip": "PokerFace\\Controllers\\AdivinanzasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:31:32.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\Program.cs",
+              "RelativeDocumentMoniker": "PokerFace\\Program.cs",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\Program.cs",
+              "RelativeToolTip": "PokerFace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:31:24.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokerFace.csproj",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\PokerFace.csproj",
+              "RelativeDocumentMoniker": "PokerFace\\PokerFace.csproj",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\PokerFace.csproj",
+              "RelativeToolTip": "PokerFace\\PokerFace.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-21T21:29:17.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bienvenute.csproj",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\Bienvenute.csproj",
+              "RelativeDocumentMoniker": "Bienvenute\\Bienvenute.csproj",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\Bienvenute.csproj",
+              "RelativeToolTip": "Bienvenute\\Bienvenute.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-21T21:32:30.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChistesController.cs",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\Controllers\\ChistesController.cs",
+              "RelativeDocumentMoniker": "PokerFace\\Controllers\\ChistesController.cs",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\Controllers\\ChistesController.cs",
+              "RelativeToolTip": "PokerFace\\Controllers\\ChistesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:31:39.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\appsettings.json",
+              "RelativeDocumentMoniker": "PokerFace\\appsettings.json",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\appsettings.json",
+              "RelativeToolTip": "PokerFace\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-21T21:31:53.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Chiste.cs",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\Models\\Chiste.cs",
+              "RelativeDocumentMoniker": "PokerFace\\Models\\Chiste.cs",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\Models\\Chiste.cs",
+              "RelativeToolTip": "PokerFace\\Models\\Chiste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:30:59.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Adivinanza.cs",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\Models\\Adivinanza.cs",
+              "RelativeDocumentMoniker": "PokerFace\\Models\\Adivinanza.cs",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\Models\\Adivinanza.cs",
+              "RelativeToolTip": "PokerFace\\Models\\Adivinanza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:30:49.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\Program.cs",
+              "RelativeDocumentMoniker": "Bienvenute\\Program.cs",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\Program.cs",
+              "RelativeToolTip": "Bienvenute\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:27:19.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Bienvenute\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Bienvenute\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:27:08.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Saludo.cs",
+              "DocumentMoniker": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\Models\\Saludo.cs",
+              "RelativeDocumentMoniker": "Bienvenute\\Models\\Saludo.cs",
+              "ToolTip": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\Bienvenute\\Models\\Saludo.cs",
+              "RelativeToolTip": "Bienvenute\\Models\\Saludo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:26:42.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

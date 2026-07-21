@@ -1,0 +1,24 @@
+services:
+  bienvenute:
+    build:
+      context: ./Bienvenute
+      dockerfile: Dockerfile
+    container_name: bienvenute
+    ports:
+      - "5601:5601"
+    networks:
+      - app-network
+
+  pokerface:
+    build:
+      context: ./Pokerface
+      dockerfile: Dockerfile
+    container_name: pokerface
+    ports:
+      - "5602:5602"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

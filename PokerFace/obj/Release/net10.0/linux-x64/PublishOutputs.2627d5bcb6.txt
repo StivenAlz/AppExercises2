@@ -1,0 +1,12 @@
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Pokerface
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\appsettings.Development.json
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\appsettings.json
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Pokerface.dll
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Pokerface.deps.json
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Pokerface.runtimeconfig.json
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Pokerface.pdb
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

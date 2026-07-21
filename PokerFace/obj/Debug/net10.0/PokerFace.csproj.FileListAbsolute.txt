@@ -1,0 +1,84 @@
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\appsettings.Development.json
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\appsettings.json
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.staticwebassets.endpoints.json
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.exe
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.deps.json
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.runtimeconfig.json
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.dll
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.pdb
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\MySqlConnector.dll
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\CIIT\AppExercises\PokerFace\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.csproj.AssemblyReference.cache
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.AssemblyInfoInputs.cache
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.AssemblyInfo.cs
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.csproj.CoreCompileInputs.cache
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\scopedcss\bundle\PokerFace.styles.css
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\staticwebassets.build.json
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\staticwebassets.development.json
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\swae.build.ex.cache
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.csproj.Up2Date
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.dll
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\refint\PokerFace.dll
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.pdb
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.genruntimeconfig.cache
+C:\Code\CIIT\AppExercises\PokerFace\obj\Debug\net10.0\ref\PokerFace.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\appsettings.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.staticwebassets.endpoints.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.exe
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.deps.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.runtimeconfig.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\PokerFace.pdb
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.csproj.AssemblyReference.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.AssemblyInfoInputs.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.AssemblyInfo.cs
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.csproj.CoreCompileInputs.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\scopedcss\bundle\PokerFace.styles.css
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.csproj.Up2Date
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\refint\PokerFace.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.pdb
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\PokerFace.genruntimeconfig.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercises\PokerFace\obj\Debug\net10.0\ref\PokerFace.dll

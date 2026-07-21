@@ -1,0 +1,42 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Bienvenute API",
+    "version": "v1"
+  },
+  "paths": {
+    "/Bienvenida": {
+      "get": {
+        "tags": [
+          "Bienvenida"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/": {
+      "get": {
+        "tags": [
+          "Bienvenute"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { },
+  "tags": [
+    {
+      "name": "Bienvenida"
+    },
+    {
+      "name": "Bienvenute"
+    }
+  ]
+}

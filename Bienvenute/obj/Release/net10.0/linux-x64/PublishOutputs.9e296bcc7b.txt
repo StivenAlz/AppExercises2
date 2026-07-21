@@ -1,0 +1,12 @@
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\Bienvenute
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\appsettings.Development.json
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\appsettings.json
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\Bienvenute.dll
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\Bienvenute.deps.json
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\Bienvenute.runtimeconfig.json
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\Bienvenute.pdb
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\CIIT\AppExercises\Bienvenute\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
