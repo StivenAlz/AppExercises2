@@ -10,7 +10,7 @@ echo -e "${CYAN}╔════════════════════�
 echo -e "${CYAN}║                      BUILD LOCAL                   ║${NC}"
 echo -e "${CYAN}╚════════════════════════════════════════════════════╝${NC}"
 
-for project in Bienvenute Pokerface; do
+for project in Bienvenute PokerFace; do
     echo -e "\n${YELLOW}📦 Procesando $project...${NC}"
     echo -e "${BLUE}🧹 Limpiando...${NC}"
     dotnet clean ./$project/$project.csproj -c Release
@@ -40,3 +40,4 @@ fi
 echo -e "\n${GREEN}✅ ¡Contenedores levantados exitosamente!${NC}"
 echo -e "${GREEN}🌐 Bienvenute: http://localhost:5601/swagger${NC}"
 echo -e "${GREEN}🌐 Pokerface: http://localhost:5602/swagger${NC}"
+#correccion de lo subido 
