@@ -40,4 +40,3 @@ fi
 echo -e "\n${GREEN}✅ ¡Contenedores levantados exitosamente!${NC}"
 echo -e "${GREEN}🌐 Bienvenute: http://localhost:5601/swagger${NC}"
 echo -e "${GREEN}🌐 Pokerface: http://localhost:5602/swagger${NC}"
-#correccion de lo subido 

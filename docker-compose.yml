@@ -11,7 +11,7 @@ services:
 
   pokerface:
     build:
-      context: ./Pokerface
+      context: ./PokerFace
       dockerfile: Dockerfile
     container_name: pokerface
     ports:
