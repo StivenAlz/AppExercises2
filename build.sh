@@ -7,8 +7,10 @@ CYAN='\033[0;36m'
 NC='\033[0m'
 
 echo -e "${CYAN}╔════════════════════════════════════════════════════╗${NC}"
-echo -e "${CYAN}║                      BUILD LOCAL                   ║${NC}"
+echo -e "${CYAN}║                      BUILD LOCAL SIFIZSOFT         ║${NC}"
 echo -e "${CYAN}╚════════════════════════════════════════════════════╝${NC}"
+
+
 
 for project in Bienvenute PokerFace; do
     echo -e "\n${YELLOW}📦 Procesando $project...${NC}"
