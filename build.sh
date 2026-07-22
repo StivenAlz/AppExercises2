@@ -30,6 +30,9 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
+echo -e "\n${YELLOW}🛑 Eliminando contenedores anteriores...${NC}"
+docker compose down --remove-orphans
+
 echo -e "\n${YELLOW}🚀 Levantando contenedores...${NC}"
 docker compose up -d
 if [ $? -ne 0 ]; then
