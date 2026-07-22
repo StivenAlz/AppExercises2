@@ -31,7 +31,7 @@ if [ $? -ne 0 ]; then
 fi
 
 echo -e "\n${YELLOW}🚀 Levantando contenedores...${NC}"
-docker-compose up -d
+docker compose up -d
 if [ $? -ne 0 ]; then
     echo -e "${RED}❌ Error al levantar los contenedores${NC}"
     exit 1
