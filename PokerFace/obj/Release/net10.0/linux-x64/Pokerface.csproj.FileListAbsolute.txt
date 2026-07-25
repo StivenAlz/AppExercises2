@@ -1,36 +1,42 @@
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\appsettings.Development.json
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\appsettings.json
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Pokerface.staticwebassets.endpoints.json
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Pokerface
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Pokerface.deps.json
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Pokerface.runtimeconfig.json
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Pokerface.dll
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Pokerface.pdb
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Microsoft.AspNetCore.OpenApi.dll
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Microsoft.OpenApi.dll
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Code\CIIT\AppExercises\Pokerface\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.csproj.AssemblyReference.cache
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\rpswa.dswa.cache.json
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.GeneratedMSBuildEditorConfig.editorconfig
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.AssemblyInfoInputs.cache
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.AssemblyInfo.cs
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.csproj.CoreCompileInputs.cache
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.MvcApplicationPartsAssemblyInfo.cs
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.MvcApplicationPartsAssemblyInfo.cache
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\rjimswa.dswa.cache.json
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\rjsmrazor.dswa.cache.json
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\rjsmcshtml.dswa.cache.json
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\scopedcss\bundle\Pokerface.styles.css
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\staticwebassets.build.json
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\staticwebassets.build.json.cache
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\staticwebassets.development.json
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\staticwebassets.build.endpoints.json
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\swae.build.ex.cache
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.csproj.Up2Date
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.dll
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\refint\Pokerface.dll
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.pdb
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\Pokerface.genruntimeconfig.cache
-C:\Code\CIIT\AppExercises\Pokerface\obj\Release\net10.0\linux-x64\ref\Pokerface.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\appsettings.Development.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\appsettings.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace.staticwebassets.endpoints.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace.deps.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace.runtimeconfig.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace.pdb
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Microsoft.OpenApi.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\MySqlConnector.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\rpswa.dswa.cache.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.sourcelink.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\rjimswa.dswa.cache.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\rjsmrazor.dswa.cache.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\rjsmcshtml.dswa.cache.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\scopedcss\bundle\PokerFace.styles.css
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\staticwebassets.build.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\staticwebassets.build.json.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\staticwebassets.development.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\staticwebassets.build.endpoints.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\swae.build.ex.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.csproj.Up2Date
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\refint\PokerFace.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.pdb
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\ref\PokerFace.dll

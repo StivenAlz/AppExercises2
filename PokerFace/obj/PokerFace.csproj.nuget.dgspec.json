@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\PokerFace.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\\Documentos\\StivenSifizsoft\\AppExercises2\\PokerFace\\PokerFace.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\PokerFace.csproj": {
+    "C:\\Users\\Usuario\\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\\Documentos\\StivenSifizsoft\\AppExercises2\\PokerFace\\PokerFace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\PokerFace.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\\Documentos\\StivenSifizsoft\\AppExercises2\\PokerFace\\PokerFace.csproj",
         "projectName": "PokerFace",
-        "projectPath": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\PokerFace.csproj",
-        "packagesPath": "C:\\Users\\Stiven Alomaliza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercises\\PokerFace\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\\Documentos\\StivenSifizsoft\\AppExercises2\\PokerFace\\PokerFace.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\\Documentos\\StivenSifizsoft\\AppExercises2\\PokerFace\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Stiven Alomaliza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -81,6 +81,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[10.0.10, 10.0.10]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -504,6 +510,11 @@
             "System.Xml.XPath": "(,4.3.32767]",
             "System.Xml.XPath.XDocument": "(,5.0.32767]"
           }
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

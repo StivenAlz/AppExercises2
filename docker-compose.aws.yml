@@ -9,7 +9,7 @@ services:
 
   pokerface:
     image: <TU_ACCOUNT>.dkr.ecr.<TU_REGION>.amazonaws.com/pokerface:latest
-    container_name: pokerface
+    container_name: pokerFace
     ports:
       - "5602:5602"
     networks:
