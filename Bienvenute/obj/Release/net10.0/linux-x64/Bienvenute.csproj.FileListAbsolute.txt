@@ -40,3 +40,45 @@ C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifi
 C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.pdb
 C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\ref\Bienvenute.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\appsettings.Development.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\appsettings.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Bienvenute.staticwebassets.endpoints.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Bienvenute
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Bienvenute.deps.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Bienvenute.runtimeconfig.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Bienvenute.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Bienvenute.pdb
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Microsoft.OpenApi.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\MySqlConnector.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.csproj.AssemblyReference.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\rpswa.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.AssemblyInfoInputs.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.AssemblyInfo.cs
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.csproj.CoreCompileInputs.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.sourcelink.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\rjimswa.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\rjsmrazor.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\rjsmcshtml.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\scopedcss\bundle\Bienvenute.styles.css
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\staticwebassets.build.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\staticwebassets.build.json.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\staticwebassets.development.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\staticwebassets.build.endpoints.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\swae.build.ex.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.csproj.Up2Date
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\refint\Bienvenute.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.pdb
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\Bienvenute.genruntimeconfig.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\obj\Release\net10.0\linux-x64\ref\Bienvenute.dll

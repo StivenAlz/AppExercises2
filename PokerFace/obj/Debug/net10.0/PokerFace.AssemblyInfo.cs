@@ -12,7 +12,7 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("c99e097d-0e2a-4322-8cfa-6a67af00058c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokerFace")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cab086107a2e24641bcedd5612d1204abb28b911")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokerFace")]

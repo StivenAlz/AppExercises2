@@ -1,0 +1,17 @@
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Bienvenute
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\appsettings.Development.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\appsettings.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Bienvenute.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Bienvenute.deps.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Bienvenute.runtimeconfig.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Bienvenute.pdb
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\MySqlConnector.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\Bienvenute\bin\Release\net10.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

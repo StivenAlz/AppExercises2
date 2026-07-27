@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\\Documentos\\StivenSifizsoft\\AppExercises2\\PokerFace\\PokerFace.csproj": {}
+    "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercisesV2\\AppExercises2\\PokerFace\\PokerFace.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\\Documentos\\StivenSifizsoft\\AppExercises2\\PokerFace\\PokerFace.csproj": {
+    "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercisesV2\\AppExercises2\\PokerFace\\PokerFace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\\Documentos\\StivenSifizsoft\\AppExercises2\\PokerFace\\PokerFace.csproj",
+        "projectUniqueName": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercisesV2\\AppExercises2\\PokerFace\\PokerFace.csproj",
         "projectName": "PokerFace",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\\Documentos\\StivenSifizsoft\\AppExercises2\\PokerFace\\PokerFace.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\\Documentos\\StivenSifizsoft\\AppExercises2\\PokerFace\\obj\\",
+        "projectPath": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercisesV2\\AppExercises2\\PokerFace\\PokerFace.csproj",
+        "packagesPath": "C:\\Users\\Stiven Alomaliza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stiven Alomaliza\\Documents\\Analista Cloud\\AppExercisesV2\\AppExercises2\\PokerFace\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Stiven Alomaliza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

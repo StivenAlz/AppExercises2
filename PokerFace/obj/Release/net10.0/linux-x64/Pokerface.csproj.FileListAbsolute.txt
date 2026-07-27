@@ -40,3 +40,45 @@ C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifi
 C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.pdb
 C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Documentos\StivenSifizsoft\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\ref\PokerFace.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\appsettings.Development.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\appsettings.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace.staticwebassets.endpoints.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace.deps.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace.runtimeconfig.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\PokerFace.pdb
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Microsoft.OpenApi.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\MySqlConnector.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\bin\Release\net10.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.csproj.AssemblyReference.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\rpswa.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.AssemblyInfoInputs.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.AssemblyInfo.cs
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.csproj.CoreCompileInputs.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.sourcelink.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\rjimswa.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\rjsmrazor.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\rjsmcshtml.dswa.cache.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\scopedcss\bundle\PokerFace.styles.css
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\staticwebassets.build.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\staticwebassets.build.json.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\staticwebassets.development.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\staticwebassets.build.endpoints.json
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\swae.build.ex.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.csproj.Up2Date
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\refint\PokerFace.dll
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.pdb
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\PokerFace.genruntimeconfig.cache
+C:\Users\Stiven Alomaliza\Documents\Analista Cloud\AppExercisesV2\AppExercises2\PokerFace\obj\Release\net10.0\linux-x64\ref\PokerFace.dll
