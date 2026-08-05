@@ -29,6 +29,6 @@ app.UseSwaggerUI();
 app.UseAuthorization();
 app.MapControllers();
 
-app.MapGet("/bienvenute/", () => Results.Ok(new { mensaje = "AppExercises Stiven funcionando correctamente Bienvenute" }));
+app.MapGet("/", () => Results.Ok(new { mensaje = "AppExercises Stiven funcionando correctamente Bienvenute" }));
 
 app.Run();
